@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Bienvenue sur l'organisation NoSQL ESIGELEC.
+Nous allons principalement travailler avec Github et d'autres outils.
 <!--
 
 **Here are some ideas to get you started:**
