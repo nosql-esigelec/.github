@@ -1,14 +1,14 @@
-## Hi there 👋
+# NoSQL Databases
 
-Bienvenue sur l'organisation NoSQL ESIGELEC.
-Nous allons principalement travailler avec Github et d'autres outils.
-<!--
+Ce cours sur les bases de données NoSQL est proposé pour les étudiants de l'ESIGELEC.
 
-**Here are some ideas to get you started:**
+Il s'adresse aux étudiants de la dominante **BDTN(Big Data pour la Transformation Numérique)**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Durant ce cours de 20h, seront abordés :
+
+1. **Introduction aux bases de données NoSQL**: généralités, les types de BDD NoSQL
+2. **Bases de données documentaires et MongoDB** : gestion des documents, et opérations CRUD.
+3. **Bases de données graphes et Neo4j** : modélisation de graphes et gestion des relations.
+4. **Déploiement cloud et architectures hybrides** : bonnes pratiques de développement et déploiement sur GCP.
+
+En suivant ce cours, les étudiants développeront des compétences pratiques en MongoDB, Neo4j, CI/CD avec GitHub Actions, et déploiement cloud sur Google Cloud Platform (GCP).
