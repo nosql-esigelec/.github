@@ -62,8 +62,8 @@ timeline
 
 Chapter |  Slides | Devoirs
 :--- | :--- | :---
-Chapter 1 | Indisponible | Indisponible
-Chapter 2 | Indisponible | Indisponible
+Chapter 1 | [MongoDB](https://github.com/nosql-esigelec/nosql-db/blob/main/courses/intro-to-nosql-mongo.pdf) | [Sprint 1](https://classroom.github.com/classrooms/118223005-inge25_3a_bdtn/assignments/gocod)
+Chapter 2 | [Neo4j](https://github.com/nosql-esigelec/nosql-db/blob/main/courses/intro-to-nosql-neo4j.pdf) | [Sprint 2](https://classroom.github.com/classrooms/118223005-inge25_3a_bdtn/assignments/gocod)
 Chapter 3 | Indisponible | Indisponible
 
 Autres ressources:
